@@ -1,0 +1,145 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "ckpvkJfvGyeqorPcFkk5Y",
+      "name": "mint",
+      "value": "#52eea3"
+    },
+    {
+      "id": "e6L2ryijEDWk9367zgoIp",
+      "name": "red",
+      "value": "#e22c3c"
+    },
+    {
+      "id": "8r3g7FmhjdGJXeDxIAkoh",
+      "name": "red-orange",
+      "value": "#e9404b"
+    },
+    {
+      "id": "p-zLOEb2cPvukEAmkvwev",
+      "name": "orange",
+      "value": "#ee6748"
+    },
+    {
+      "id": "YF1jOjttXNwut6bOcInf_",
+      "name": "amber",
+      "value": "#fa9f50"
+    },
+    {
+      "id": "FDufNDEhVZogloxdKqpXu",
+      "name": "yellow",
+      "value": "#ffd85e"
+    },
+    {
+      "id": "cartMsuiXgIZD9DA1dJIe",
+      "name": "lime",
+      "value": "#97e768"
+    },
+    {
+      "id": "DIpEhNIQll1hLuRjviivA",
+      "name": "cyan",
+      "value": "#51e1e9"
+    },
+    {
+      "id": "9F-GzcayZdYE1xPkKPcJb",
+      "name": "cool-cyan",
+      "value": "#43cfea"
+    },
+    {
+      "id": "dH5XXdZFTO7DzXsOqC2Qk",
+      "name": "light-blue",
+      "value": "#54b6f8"
+    },
+    {
+      "id": "E1KiHEUXewTsE-_A66b5d",
+      "name": "blue",
+      "value": "#437cf3"
+    },
+    {
+      "id": "iZ2XLC86KAC7XAsWLM6hJ",
+      "name": "blue-violet",
+      "value": "#6f51f4"
+    },
+    {
+      "id": "PuA8bZMKxSJIX4FuJ6mik",
+      "name": "violet",
+      "value": "#9446f8"
+    },
+    {
+      "id": "_qMT527oalze9Dzk86ze4",
+      "name": "purple",
+      "value": "#c952ed"
+    },
+    {
+      "id": "shgnyQvE8cXUR7OyBp8vX",
+      "name": "magenta",
+      "value": "#e54f9b"
+    },
+    {
+      "id": "AkQL7fdQmHUJgezgKLk2B",
+      "name": "hot-red",
+      "value": "#e3365e"
+    },
+    {
+      "id": "D8g_2HcUoh6CaSTrBOZyO",
+      "name": "cool-gray",
+      "value": "#515768"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Maps of Content",
+      "color": "ckpvkJfvGyeqorPcFkk5Y"
+    },
+    {
+      "path": "_Quick-Notes",
+      "color": "ckpvkJfvGyeqorPcFkk5Y"
+    },
+    {
+      "path": "02 - Areas",
+      "color": "dH5XXdZFTO7DzXsOqC2Qk"
+    },
+    {
+      "path": "01 - Tasks",
+      "color": "DIpEhNIQll1hLuRjviivA"
+    },
+    {
+      "path": "03 - Notes",
+      "color": "E1KiHEUXewTsE-_A66b5d"
+    },
+    {
+      "path": "04 - Concepts",
+      "color": "iZ2XLC86KAC7XAsWLM6hJ"
+    },
+    {
+      "path": "06 - Daily",
+      "color": "shgnyQvE8cXUR7OyBp8vX"
+    },
+    {
+      "path": "07 - Archives",
+      "color": "AkQL7fdQmHUJgezgKLk2B"
+    },
+    {
+      "path": "08 -  Files",
+      "color": "p-zLOEb2cPvukEAmkvwev"
+    },
+    {
+      "path": "99 - Meta",
+      "color": "D8g_2HcUoh6CaSTrBOZyO"
+    },
+    {
+      "path": "09 - Sandbox",
+      "color": "YF1jOjttXNwut6bOcInf_"
+    },
+    {
+      "path": "THE BRAIN MOC.md",
+      "color": "cartMsuiXgIZD9DA1dJIe"
+    },
+    {
+      "path": "05 - Fleeting",
+      "color": "_qMT527oalze9Dzk86ze4"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Brain  ",
+      "color": {
+        "a": 1,
+        "rgb": 9888618
+      }
+    },
+    {
+      "query": "path:\"00 - Maps of Content\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5368463
+      }
+    },
+    {
+      "query": "path:\"01 - Tasks\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5759465
+      }
+    },
+    {
+      "query": "path:\"02 - Areas\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6010871
+      }
+    },
+    {
+      "query": "path:\"03 - Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5013234
+      }
+    },
+    {
+      "query": "path:\"04 - Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7624179
+      }
+    },
+    {
+      "query": "path:\"05 - Fleeting\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13260268
+      }
+    },
+    {
+      "query": "path:\"06 - Daily\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14962843
+      }
+    },
+    {
+      "query": "path:\"08 -  Files\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15492681
+      }
+    },
+    {
+      "query": "path:\"09 - Sandbox\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14519884
+      }
+    },
+    {
+      "query": "path:\"07 - Archives\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14759518
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 2.42239583333333,
+  "collapse-forces": false,
+  "centerStrength": 0.296875,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 258,
+  "scale": 0.19256746172558048,
+  "close": true
+}

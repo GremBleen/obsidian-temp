@@ -1,0 +1,117 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxsNetworkChart",
+      "BoBxsGraduation",
+      "BoBxTask",
+      "BoBxsRocket",
+      "BoBxTime"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "_Quick-Notes",
+        "icon": "BoBxsPencil",
+        "for": "everything",
+        "order": 0
+      },
+      {
+        "rule": " - Maps of Content",
+        "icon": "BoBxGlobeAlt",
+        "for": "folders",
+        "order": 1
+      },
+      {
+        "rule": " - Tasks",
+        "icon": "BoBxsGraduation",
+        "for": "folders",
+        "order": 2
+      },
+      {
+        "rule": " - Areas",
+        "icon": "BoBxsPackage",
+        "for": "folders",
+        "order": 3
+      },
+      {
+        "rule": " - Notes",
+        "icon": "BoBxsBook",
+        "for": "folders",
+        "order": 4
+      },
+      {
+        "rule": "- Concepts",
+        "icon": "BoBxsNetworkChart",
+        "for": "everything",
+        "order": 5
+      },
+      {
+        "rule": " - Fleeting",
+        "icon": "BoBxsPencil",
+        "for": "folders",
+        "order": 6
+      },
+      {
+        "rule": "- Daily",
+        "icon": "BoBxCalendarEvent",
+        "for": "folders",
+        "order": 7
+      },
+      {
+        "rule": "- Files",
+        "icon": "BoBxsFolderOpen",
+        "for": "everything",
+        "order": 8
+      },
+      {
+        "rule": "- Sandbox",
+        "icon": "BoBxLeaf",
+        "for": "everything",
+        "order": 9
+      },
+      {
+        "rule": "- Meta",
+        "icon": "BoBxSelection",
+        "for": "folders",
+        "order": 10
+      },
+      {
+        "rule": "- Templates",
+        "icon": "BoBxRuler",
+        "for": "everything",
+        "order": 11
+      },
+      {
+        "rule": "- Archives",
+        "icon": "BoBxsArchive",
+        "for": "folders",
+        "order": 12
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 2,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "THE BRAIN MOC.md": "BoBxBrain",
+  "08 -  Files": "BoBxsFolderOpen",
+  "03 - Notes": "BoBxsBook",
+  "00 - Maps of Content": "BoBxGlobeAlt",
+  "_Quick-Notes": "BoBxsPencil",
+  "01 - Tasks": "BoBxsGraduation",
+  "02 - Areas": "BoBxsPackage",
+  "09 - Sandbox": "BoBxLeaf",
+  "04 - Concepts": "BoBxsNetworkChart"
+}
