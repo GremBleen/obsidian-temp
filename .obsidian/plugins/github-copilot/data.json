@@ -1,5 +1,5 @@
 {
-  "nodePath": "/run/user/1000/fnm_multishells/7071_1726426472546/bin/node",
+  "nodePath": "/run/user/1000/fnm_multishells/18317_1727961169878/bin/node",
   "enabled": true,
   "hotkeys": {
     "accept": "Tab",
@@ -9,7 +9,7 @@
     "next": "Cmd-Shift-ArrowDown",
     "disable": "Cmd-Shift-ArrowRight"
   },
-  "suggestionDelay": 500,
+  "suggestionDelay": 10,
   "debug": false,
   "onlyOnHotkey": false,
   "onlyInCodeBlock": false,

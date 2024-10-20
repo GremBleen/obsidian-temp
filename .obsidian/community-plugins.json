@@ -15,12 +15,13 @@
   "homepage",
   "obsidian-advanced-slides",
   "dataview",
-  "github-copilot",
   "obsidian-file-color",
   "obisidian-note-linker",
   "local-backup",
   "obsidian-git",
   "obsidian-kanban",
   "better-export-pdf",
-  "obsidian-plugin-prettier"
+  "obsidian-plugin-prettier",
+  "custom-node-size",
+  "smart-connections"
 ]
